@@ -1,0 +1,30 @@
+標題：WCAG 2.2 Glossary — user interface component
+來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#dfn-user-interface-components
+教材整理日期：2026-10-21
+原文發布日期：2024-12-12
+文件狀態：W3C Recommendation 12 December 2024
+資料類型：W3C WCAG 2.2 原文詞彙定義節錄
+準則編號：glossary
+符合等級：definition
+版權聲明：Copyright © 2020-2024 World Wide Web Consortium.
+授權網址：https://www.w3.org/copyright/document-license-2023/
+來源快照SHA256：6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057
+
+【內容】
+user interface component
+a part of the content that is perceived by users as a single control for a distinct
+function
+Note 1
+Multiple user interface components may be implemented as a single programmatic element.
+"Components" here is not tied to programming techniques, but rather to what the user
+perceives as separate controls.
+Note 2
+User interface components include form elements and links as well as components generated
+by scripts.
+Note 3
+What is meant by "component" or "user interface component" here is also sometimes
+called "user interface element".
+Example
+An applet has a "control" that can be used to move through content by line or page
+or random access. Since each of these would need to have a name and be settable independently,
+they would each be a "user interface component."

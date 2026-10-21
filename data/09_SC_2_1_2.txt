@@ -1,0 +1,21 @@
+標題：Success Criterion 2.1.2 No Keyboard Trap
+來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#no-keyboard-trap
+教材整理日期：2026-10-21
+原文發布日期：2024-12-12
+文件狀態：W3C Recommendation 12 December 2024
+資料類型：W3C WCAG 2.2 原文準則節錄（含該節例外與註解）
+準則編號：2.1.2
+符合等級：A
+版權聲明：Copyright © 2020-2024 World Wide Web Consortium.
+授權網址：https://www.w3.org/copyright/document-license-2023/
+來源快照SHA256：6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057
+
+【內容】
+(Level A)
+If keyboard focus can be moved to a component of the page using a keyboard interface, then focus can be moved away from that component using only a keyboard interface,
+and, if it requires more than unmodified arrow or tab keys or other standard exit
+methods, the user is advised of the method for moving focus away.
+Note
+Since any content that does not meet this success criterion can interfere with a user's
+ability to use the whole page, all content on the web page (whether it is used to
+meet other success criteria or not) must meet this success criterion. See Conformance Requirement 5: Non-Interference.

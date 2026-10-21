@@ -1,0 +1,24 @@
+標題：Success Criterion 2.1.1 Keyboard
+來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#keyboard
+教材整理日期：2026-10-21
+原文發布日期：2024-12-12
+文件狀態：W3C Recommendation 12 December 2024
+資料類型：W3C WCAG 2.2 原文準則節錄（含該節例外與註解）
+準則編號：2.1.1
+符合等級：A
+版權聲明：Copyright © 2020-2024 World Wide Web Consortium.
+授權網址：https://www.w3.org/copyright/document-license-2023/
+來源快照SHA256：6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057
+
+【內容】
+(Level A)
+All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes, except where the underlying
+function requires input that depends on the path of the user's movement and not just
+the endpoints.
+Note 1
+This exception relates to the underlying function, not the input technique. For example,
+if using handwriting to enter text, the input technique (handwriting) requires path-dependent
+input but the underlying function (text input) does not.
+Note 2
+This does not forbid and should not discourage providing mouse input or other input
+methods in addition to keyboard operation.

@@ -1,0 +1,20 @@
+標題：Success Criterion 2.4.11 Focus Not Obscured (Minimum)
+來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-not-obscured-minimum
+教材整理日期：2026-10-21
+原文發布日期：2024-12-12
+文件狀態：W3C Recommendation 12 December 2024
+資料類型：W3C WCAG 2.2 原文準則節錄（含該節例外與註解）
+準則編號：2.4.11
+符合等級：AA
+版權聲明：Copyright © 2020-2024 World Wide Web Consortium.
+授權網址：https://www.w3.org/copyright/document-license-2023/
+來源快照SHA256：6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057
+
+【內容】
+(Level AA)
+New
+When a user interface component receives keyboard focus, the component is not entirely hidden due to author-created content.
+Note 1
+Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content are considered for testing and conformance of this success criterion.
+Note 2
+Content opened by the user may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered visually hidden due to author-created content.

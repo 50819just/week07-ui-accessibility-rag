@@ -1,0 +1,19 @@
+標題：Success Criterion 1.4.11 Non-text Contrast
+來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#non-text-contrast
+教材整理日期：2026-10-21
+原文發布日期：2024-12-12
+文件狀態：W3C Recommendation 12 December 2024
+資料類型：W3C WCAG 2.2 原文準則節錄（含該節例外與註解）
+準則編號：1.4.11
+符合等級：AA
+版權聲明：Copyright © 2020-2024 World Wide Web Consortium.
+授權網址：https://www.w3.org/copyright/document-license-2023/
+來源快照SHA256：6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057
+
+【內容】
+(Level AA)
+The visual presentation of the following have a contrast ratio of at least 3:1 against adjacent color(s):
+User Interface Components
+Visual information required to identify user interface components and states, except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author;
+Graphical Objects
+Parts of graphics required to understand the content, except when a particular presentation of graphics is essential to the information being conveyed.

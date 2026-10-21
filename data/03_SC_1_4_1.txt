@@ -1,0 +1,18 @@
+標題：Success Criterion 1.4.1 Use of Color
+來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#use-of-color
+教材整理日期：2026-10-21
+原文發布日期：2024-12-12
+文件狀態：W3C Recommendation 12 December 2024
+資料類型：W3C WCAG 2.2 原文準則節錄（含該節例外與註解）
+準則編號：1.4.1
+符合等級：A
+版權聲明：Copyright © 2020-2024 World Wide Web Consortium.
+授權網址：https://www.w3.org/copyright/document-license-2023/
+來源快照SHA256：6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057
+
+【內容】
+(Level A)
+Color is not used as the only visual means of conveying information, indicating an
+action, prompting a response, or distinguishing a visual element.
+Note
+This success criterion addresses color perception specifically. Other forms of perception are covered in Guideline 1.3 including programmatic access to color and other visual presentation coding.

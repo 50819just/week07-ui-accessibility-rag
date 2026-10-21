@@ -1,0 +1,22 @@
+標題：Success Criterion 1.4.3 Contrast (Minimum)
+來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#contrast-minimum
+教材整理日期：2026-10-21
+原文發布日期：2024-12-12
+文件狀態：W3C Recommendation 12 December 2024
+資料類型：W3C WCAG 2.2 原文準則節錄（含該節例外與註解）
+準則編號：1.4.3
+符合等級：AA
+版權聲明：Copyright © 2020-2024 World Wide Web Consortium.
+授權網址：https://www.w3.org/copyright/document-license-2023/
+來源快照SHA256：6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057
+
+【內容】
+(Level AA)
+The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for the following:
+Large Text
+Large-scale text and images of large-scale text have a contrast ratio of at least 3:1;
+Incidental
+Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant
+other visual content, have no contrast requirement.
+Logotypes
+Text that is part of a logo or brand name has no contrast requirement.

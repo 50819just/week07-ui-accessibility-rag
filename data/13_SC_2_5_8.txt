@@ -1,0 +1,30 @@
+標題：Success Criterion 2.5.8 Target Size (Minimum)
+來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#target-size-minimum
+教材整理日期：2026-10-21
+原文發布日期：2024-12-12
+文件狀態：W3C Recommendation 12 December 2024
+資料類型：W3C WCAG 2.2 原文準則節錄（含該節例外與註解）
+準則編號：2.5.8
+符合等級：AA
+版權聲明：Copyright © 2020-2024 World Wide Web Consortium.
+授權網址：https://www.w3.org/copyright/document-license-2023/
+來源快照SHA256：6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057
+
+【內容】
+(Level AA)
+New
+The size of the target for pointer inputs is at least 24 by 24 CSS pixels, except when:
+Spacing
+Undersized targets (those less than 24 by 24 CSS pixels) are positioned so that if a 24 CSS pixel diameter circle is centered on the bounding box of each, the circles do not intersect another target or the circle for another undersized target;
+Equivalent
+The function can be achieved through a different control on the same page that meets this criterion;
+Inline
+The target is in a sentence or its size is otherwise constrained by the line-height of non-target text;
+User Agent Control
+The size of the target is determined by the user agent and is not modified by the author;
+Essential
+A particular presentation of the target is essential or is legally required for the information being conveyed.
+Note 1
+Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders, color pickers displaying a gradient of colors, or editable areas where you position the cursor.
+Note 2
+For inline targets the line-height should be interpreted as perpendicular to the flow of text. For example, in a language displayed vertically, the line-height would be horizontal.
