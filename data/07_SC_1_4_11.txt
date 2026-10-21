@@ -1,4 +1,6 @@
-標題：Success Criterion 1.4.11 Non-text Contrast
+標題：Success Criterion 1.4.11 Non-text Contrast｜非官方檢索別名：非文字對比 控制元件對比 按鈕邊框 圖示對比
+原文標題：Success Criterion 1.4.11 Non-text Contrast
+檢索別名：非文字對比 控制元件對比 按鈕邊框 圖示對比
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#non-text-contrast
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

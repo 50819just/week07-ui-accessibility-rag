@@ -1,4 +1,6 @@
-標題：Success Criterion 1.4.1 Use of Color
+標題：Success Criterion 1.4.1 Use of Color｜非官方檢索別名：顏色 色彩 紅色 紅框 只靠顏色 狀態提示 錯誤提示
+原文標題：Success Criterion 1.4.1 Use of Color
+檢索別名：顏色 色彩 紅色 紅框 只靠顏色 狀態提示 錯誤提示
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#use-of-color
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

@@ -1,11 +1,13 @@
 [
   {
     "filename": "01_SC_1_1_1.txt",
-    "title": "Success Criterion 1.1.1 Non-text Content",
+    "title": "Success Criterion 1.1.1 Non-text Content｜非官方檢索別名：替代文字 圖片 圖示 裝飾圖 驗證碼 非文字內容",
     "sc_id": "1.1.1",
     "level": "A",
     "section_id": "non-text-content",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 1.1.1 Non-text Content",
+    "retrieval_alias": "替代文字 圖片 圖示 裝飾圖 驗證碼 非文字內容",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#non-text-content",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -13,15 +15,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "fe68c9ec00e1dcf718f41d3772bea766d8c2585cd3e5ed5dba496d6ca3bd2547"
+    "file_sha256": "a924876b2614297a6f875ff245ce4c35e2919f5bb0243f06d6c58e349aad389d"
   },
   {
     "filename": "02_SC_1_3_1.txt",
-    "title": "Success Criterion 1.3.1 Info and Relationships",
+    "title": "Success Criterion 1.3.1 Info and Relationships｜非官方檢索別名：資訊結構 關聯 標題 清單 表單結構",
     "sc_id": "1.3.1",
     "level": "A",
     "section_id": "info-and-relationships",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 1.3.1 Info and Relationships",
+    "retrieval_alias": "資訊結構 關聯 標題 清單 表單結構",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#info-and-relationships",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -29,15 +33,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "93fbcba0cc6f77fe74848a5b9789e3aa7b35419733e714435e6ba950bf88584b"
+    "file_sha256": "654ba964bc587fd0ec7f104e82b26d802b725dad6c709d661f1ad7fd95107085"
   },
   {
     "filename": "03_SC_1_4_1.txt",
-    "title": "Success Criterion 1.4.1 Use of Color",
+    "title": "Success Criterion 1.4.1 Use of Color｜非官方檢索別名：顏色 色彩 紅色 紅框 只靠顏色 狀態提示 錯誤提示",
     "sc_id": "1.4.1",
     "level": "A",
     "section_id": "use-of-color",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 1.4.1 Use of Color",
+    "retrieval_alias": "顏色 色彩 紅色 紅框 只靠顏色 狀態提示 錯誤提示",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#use-of-color",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -45,15 +51,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "d780c6baeb0ab148b7eac30bc3047d3dbc791a5e1243f1bc5473905408c4ad2a"
+    "file_sha256": "db078bec66e08b4a3f50e7bbe4c118e5da2697b3500b1d366f0beb26bef75e16"
   },
   {
     "filename": "04_SC_1_4_3.txt",
-    "title": "Success Criterion 1.4.3 Contrast (Minimum)",
+    "title": "Success Criterion 1.4.3 Contrast (Minimum)｜非官方檢索別名：文字對比 最低對比 普通文字 大字 品牌標誌 標誌例外",
     "sc_id": "1.4.3",
     "level": "AA",
     "section_id": "contrast-minimum",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 1.4.3 Contrast (Minimum)",
+    "retrieval_alias": "文字對比 最低對比 普通文字 大字 品牌標誌 標誌例外",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#contrast-minimum",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -61,15 +69,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "532debb49fca1e492a658abc641515c956838b93fda6b794097d5c01100f47cc"
+    "file_sha256": "87ee73c85cac4f35e9fad14de13b7ba7f62900a123b57b264bc573c3ec4b36c0"
   },
   {
     "filename": "05_SC_1_4_4.txt",
-    "title": "Success Criterion 1.4.4 Resize Text",
+    "title": "Success Criterion 1.4.4 Resize Text｜非官方檢索別名：文字放大 字體縮放 縮放文字",
     "sc_id": "1.4.4",
     "level": "AA",
     "section_id": "resize-text",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 1.4.4 Resize Text",
+    "retrieval_alias": "文字放大 字體縮放 縮放文字",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#resize-text",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -77,15 +87,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "38be9d3da1c1822d6232fa6bf515bc935ffb8c5bc8ad0458dcb3447db8e9267a"
+    "file_sha256": "2d11476adf3f9c666d6d9f9407b060f04208fe93e7a946f40883acc2378d306a"
   },
   {
     "filename": "06_SC_1_4_10.txt",
-    "title": "Success Criterion 1.4.10 Reflow",
+    "title": "Success Criterion 1.4.10 Reflow｜非官方檢索別名：內容重排 窄螢幕 手機版 橫向捲動 縮放",
     "sc_id": "1.4.10",
     "level": "AA",
     "section_id": "reflow",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 1.4.10 Reflow",
+    "retrieval_alias": "內容重排 窄螢幕 手機版 橫向捲動 縮放",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#reflow",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -93,15 +105,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "45e55bad580752a2573b2a336e7ca58901eecaf1a771c85a9ea5367af974e228"
+    "file_sha256": "ef724e9b3fda53e9a037374f3f34185f6893d5b666bf47a8e7f85fe03d25bcf0"
   },
   {
     "filename": "07_SC_1_4_11.txt",
-    "title": "Success Criterion 1.4.11 Non-text Contrast",
+    "title": "Success Criterion 1.4.11 Non-text Contrast｜非官方檢索別名：非文字對比 控制元件對比 按鈕邊框 圖示對比",
     "sc_id": "1.4.11",
     "level": "AA",
     "section_id": "non-text-contrast",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 1.4.11 Non-text Contrast",
+    "retrieval_alias": "非文字對比 控制元件對比 按鈕邊框 圖示對比",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#non-text-contrast",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -109,15 +123,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "f848b913c7f8eee4594848c7f4bcc2aa6b26a2b6492ca12c60e9e3c45b33129d"
+    "file_sha256": "2586c897efa2a70f452fd0e1057c03165ad94f5b08fce0d8f637696a28389d17"
   },
   {
     "filename": "08_SC_2_1_1.txt",
-    "title": "Success Criterion 2.1.1 Keyboard",
+    "title": "Success Criterion 2.1.1 Keyboard｜非官方檢索別名：鍵盤操作 Tab 按鍵 不用滑鼠",
     "sc_id": "2.1.1",
     "level": "A",
     "section_id": "keyboard",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 2.1.1 Keyboard",
+    "retrieval_alias": "鍵盤操作 Tab 按鍵 不用滑鼠",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#keyboard",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -125,15 +141,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "bf53a92e24e455c74c51ca5892f66c35992f9e87abfefc6ff7bc98cf6534dc9f"
+    "file_sha256": "9a95601e9f055f406110bf928fdc19d7c0346165f8fe668f5aa6fc9c238d14f3"
   },
   {
     "filename": "09_SC_2_1_2.txt",
-    "title": "Success Criterion 2.1.2 No Keyboard Trap",
+    "title": "Success Criterion 2.1.2 No Keyboard Trap｜非官方檢索別名：鍵盤陷阱 焦點卡住 無法離開",
     "sc_id": "2.1.2",
     "level": "A",
     "section_id": "no-keyboard-trap",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 2.1.2 No Keyboard Trap",
+    "retrieval_alias": "鍵盤陷阱 焦點卡住 無法離開",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#no-keyboard-trap",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -141,15 +159,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "98ee00f3ac8c5177f02ff2abfd73acaa97a51c4479404a5c3492d8c354ebda7e"
+    "file_sha256": "cecff8f4b7613733314b11d65f5ab5e0ac2e62bf8849c97d6b2bb7af5774ccc8"
   },
   {
     "filename": "10_SC_2_4_3.txt",
-    "title": "Success Criterion 2.4.3 Focus Order",
+    "title": "Success Criterion 2.4.3 Focus Order｜非官方檢索別名：焦點順序 Tab順序 操作順序",
     "sc_id": "2.4.3",
     "level": "A",
     "section_id": "focus-order",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 2.4.3 Focus Order",
+    "retrieval_alias": "焦點順序 Tab順序 操作順序",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-order",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -157,15 +177,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "db7ddd421a7510a347460e8d62751f783d78d7725737a7eaa9e32630aa1709ee"
+    "file_sha256": "9b146b02f3142c098362f4f6ac8dc7e362df6f9a688fae96a194ed1dfd0f72fd"
   },
   {
     "filename": "11_SC_2_4_7.txt",
-    "title": "Success Criterion 2.4.7 Focus Visible",
+    "title": "Success Criterion 2.4.7 Focus Visible｜非官方檢索別名：焦點可見 鍵盤焦點 焦點外框",
     "sc_id": "2.4.7",
     "level": "AA",
     "section_id": "focus-visible",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 2.4.7 Focus Visible",
+    "retrieval_alias": "焦點可見 鍵盤焦點 焦點外框",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-visible",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -173,15 +195,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "e5cb6f93050442f7d76430b5d486107580a20f796de60fd89f1269447f431d2d"
+    "file_sha256": "1990e5e17b073d03dd1c859d5a71eb8c7ca3bfc7348cf2073a4fe37e98fbf5ba"
   },
   {
     "filename": "12_SC_2_4_11.txt",
-    "title": "Success Criterion 2.4.11 Focus Not Obscured (Minimum)",
+    "title": "Success Criterion 2.4.11 Focus Not Obscured (Minimum)｜非官方檢索別名：焦點不被遮住 固定導覽列 浮動視窗",
     "sc_id": "2.4.11",
     "level": "AA",
     "section_id": "focus-not-obscured-minimum",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 2.4.11 Focus Not Obscured (Minimum)",
+    "retrieval_alias": "焦點不被遮住 固定導覽列 浮動視窗",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-not-obscured-minimum",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -189,15 +213,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "f88e7906b5f2d7127421295743c23c3604bdc8571764a7dc84b928a784272813"
+    "file_sha256": "63f29c919c34146e3ed71fe0764b0fa8b7da2222ee4fb844ad9801731ac288d7"
   },
   {
     "filename": "13_SC_2_5_8.txt",
-    "title": "Success Criterion 2.5.8 Target Size (Minimum)",
+    "title": "Success Criterion 2.5.8 Target Size (Minimum)｜非官方檢索別名：觸控目標 點擊目標 按鈕尺寸 最低大小 間距例外",
     "sc_id": "2.5.8",
     "level": "AA",
     "section_id": "target-size-minimum",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 2.5.8 Target Size (Minimum)",
+    "retrieval_alias": "觸控目標 點擊目標 按鈕尺寸 最低大小 間距例外",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#target-size-minimum",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -205,15 +231,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "df0f4a823e68bffec3b1e271cc298b47182fa77144ad3922e47305e86848a883"
+    "file_sha256": "4cd4b3e22f5b54c8c09bd639eca6a440ec19fa50fc5a6e2aab2c8e7ead80125a"
   },
   {
     "filename": "14_SC_3_3_1.txt",
-    "title": "Success Criterion 3.3.1 Error Identification",
+    "title": "Success Criterion 3.3.1 Error Identification｜非官方檢索別名：錯誤識別 錯誤訊息 文字說明 表單錯誤",
     "sc_id": "3.3.1",
     "level": "A",
     "section_id": "error-identification",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 3.3.1 Error Identification",
+    "retrieval_alias": "錯誤識別 錯誤訊息 文字說明 表單錯誤",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#error-identification",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -221,15 +249,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "0cc689ed8e3bc01b9ab4ba9fe34a692c200cb376b8ef3261920298c77a4d5a95"
+    "file_sha256": "3269419abb17b6c956453891e35924e0089c34e99bcec62be21042d495677729"
   },
   {
     "filename": "15_SC_3_3_2.txt",
-    "title": "Success Criterion 3.3.2 Labels or Instructions",
+    "title": "Success Criterion 3.3.2 Labels or Instructions｜非官方檢索別名：標籤 提示說明 輸入欄位 表單標籤",
     "sc_id": "3.3.2",
     "level": "A",
     "section_id": "labels-or-instructions",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 3.3.2 Labels or Instructions",
+    "retrieval_alias": "標籤 提示說明 輸入欄位 表單標籤",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#labels-or-instructions",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -237,15 +267,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "ec6970dfa6c105a8ee3eb63a418c31b9068215c3938ed7e5953daf2037af51b4"
+    "file_sha256": "f424d82f6d2a750113864f944343a57c6e22b0b3ea0950753a76533624da5d23"
   },
   {
     "filename": "16_SC_3_3_3.txt",
-    "title": "Success Criterion 3.3.3 Error Suggestion",
+    "title": "Success Criterion 3.3.3 Error Suggestion｜非官方檢索別名：錯誤建議 修正建議 表單修正",
     "sc_id": "3.3.3",
     "level": "AA",
     "section_id": "error-suggestion",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 3.3.3 Error Suggestion",
+    "retrieval_alias": "錯誤建議 修正建議 表單修正",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#error-suggestion",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -253,15 +285,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "a07d396103e1c92debfc832be1e4746ff5945c6d6e6a91c87fb119001f8eb204"
+    "file_sha256": "02c7b806d3763ca030bf4f2ac0db43268cfd1dc926cb8c7a848bce5522c05925"
   },
   {
     "filename": "17_SC_3_3_7.txt",
-    "title": "Success Criterion 3.3.7 Redundant Entry",
+    "title": "Success Criterion 3.3.7 Redundant Entry｜非官方檢索別名：重複輸入 已填資料 自動填入",
     "sc_id": "3.3.7",
     "level": "A",
     "section_id": "redundant-entry",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 3.3.7 Redundant Entry",
+    "retrieval_alias": "重複輸入 已填資料 自動填入",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#redundant-entry",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -269,15 +303,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "01fd08ebd66a95d933ef924a7693d82af27fbb855e3ffe8832793ef38d68ef9a"
+    "file_sha256": "601d19ba33aa9e545f832f0229ef7e6efab89f44744cdee4dbbda78e9d7744c5"
   },
   {
     "filename": "18_SC_3_3_8.txt",
-    "title": "Success Criterion 3.3.8 Accessible Authentication (Minimum)",
+    "title": "Success Criterion 3.3.8 Accessible Authentication (Minimum)｜非官方檢索別名：無障礙驗證 登入 密碼 認知功能測試",
     "sc_id": "3.3.8",
     "level": "AA",
     "section_id": "accessible-authentication-minimum",
     "document_type": "W3C WCAG 2.2 原文準則節錄（含該節例外與註解）",
+    "original_title": "Success Criterion 3.3.8 Accessible Authentication (Minimum)",
+    "retrieval_alias": "無障礙驗證 登入 密碼 認知功能測試",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#accessible-authentication-minimum",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -285,15 +321,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "2485787a1c9415a615c7b5d159c85f8f59fe53f7d502b74b4456d3c81aa03c22"
+    "file_sha256": "67b1ccb030a962e4324193ec536ee47ebddf41bf4ceb270ae14588a26df11571"
   },
   {
     "filename": "19_dfn-large-scale.txt",
-    "title": "WCAG 2.2 Glossary — large scale (text)",
+    "title": "WCAG 2.2 Glossary — large scale (text)｜非官方檢索別名：大字 大型文字 字體大小 粗體 字級 定義",
     "sc_id": "glossary",
     "level": "definition",
     "section_id": "dfn-large-scale",
     "document_type": "W3C WCAG 2.2 原文詞彙定義節錄",
+    "original_title": "WCAG 2.2 Glossary — large scale (text)",
+    "retrieval_alias": "大字 大型文字 字體大小 粗體 字級 定義",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#dfn-large-scale",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -301,15 +339,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "427eab9ace5e5e850a68a9b3266abc95b7a920c65a5e302dfeddb92d036be2a6"
+    "file_sha256": "fdea0cffc4428275c618aab2b83e20f90d398396e7fefcde2b0daeb62ecdd5f5"
   },
   {
     "filename": "20_dfn-css-pixels.txt",
-    "title": "WCAG 2.2 Glossary — CSS pixel",
+    "title": "WCAG 2.2 Glossary — CSS pixel｜非官方檢索別名：CSS像素 螢幕像素 單位 定義",
     "sc_id": "glossary",
     "level": "definition",
     "section_id": "dfn-css-pixels",
     "document_type": "W3C WCAG 2.2 原文詞彙定義節錄",
+    "original_title": "WCAG 2.2 Glossary — CSS pixel",
+    "retrieval_alias": "CSS像素 螢幕像素 單位 定義",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#dfn-css-pixels",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -317,15 +357,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "90d77ab6f02558e5986ea0a31d399ad9e4508d1240ca9646863407b0e8ba51dc"
+    "file_sha256": "bba91ba5d50c6bdffca13649b2c5c8869bda24e9b3029a6abf5b07d6cb083cb6"
   },
   {
     "filename": "21_dfn-keyboard-interface.txt",
-    "title": "WCAG 2.2 Glossary — keyboard interface",
+    "title": "WCAG 2.2 Glossary — keyboard interface｜非官方檢索別名：鍵盤介面 鍵盤輸入 定義",
     "sc_id": "glossary",
     "level": "definition",
     "section_id": "dfn-keyboard-interface",
     "document_type": "W3C WCAG 2.2 原文詞彙定義節錄",
+    "original_title": "WCAG 2.2 Glossary — keyboard interface",
+    "retrieval_alias": "鍵盤介面 鍵盤輸入 定義",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#dfn-keyboard-interface",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -333,15 +375,17 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "405471c24e757ad602ecd51d00a33e1f9d3e4e987925f0056ce6378e7900d4d2"
+    "file_sha256": "fb128c3bab8282c785fe555780f6eea52df3b6ff9d2a5a4022d7dd8e529d4476"
   },
   {
     "filename": "22_dfn-user-interface-components.txt",
-    "title": "WCAG 2.2 Glossary — user interface component",
+    "title": "WCAG 2.2 Glossary — user interface component｜非官方檢索別名：使用者介面元件 控制元件 按鈕 定義",
     "sc_id": "glossary",
     "level": "definition",
     "section_id": "dfn-user-interface-components",
     "document_type": "W3C WCAG 2.2 原文詞彙定義節錄",
+    "original_title": "WCAG 2.2 Glossary — user interface component",
+    "retrieval_alias": "使用者介面元件 控制元件 按鈕 定義",
     "source_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#dfn-user-interface-components",
     "date": "2026-10-21",
     "source_publication_date": "2024-12-12",
@@ -349,6 +393,6 @@
     "copyright": "Copyright © 2020-2024 World Wide Web Consortium.",
     "license_url": "https://www.w3.org/copyright/document-license-2023/",
     "source_snapshot_sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
-    "file_sha256": "7655b503cc09218e59470e624c310574abca3867d75553e08336faeb714a0206"
+    "file_sha256": "3be669ce7c96463d73a61e1581a5691cad89f4f32b7711af317095a838e7abfa"
   }
 ]

@@ -1,4 +1,6 @@
-標題：Success Criterion 2.1.2 No Keyboard Trap
+標題：Success Criterion 2.1.2 No Keyboard Trap｜非官方檢索別名：鍵盤陷阱 焦點卡住 無法離開
+原文標題：Success Criterion 2.1.2 No Keyboard Trap
+檢索別名：鍵盤陷阱 焦點卡住 無法離開
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#no-keyboard-trap
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

@@ -1,4 +1,6 @@
-標題：WCAG 2.2 Glossary — keyboard interface
+標題：WCAG 2.2 Glossary — keyboard interface｜非官方檢索別名：鍵盤介面 鍵盤輸入 定義
+原文標題：WCAG 2.2 Glossary — keyboard interface
+檢索別名：鍵盤介面 鍵盤輸入 定義
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#dfn-keyboard-interface
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

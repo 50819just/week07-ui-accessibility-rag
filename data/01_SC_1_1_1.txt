@@ -1,4 +1,6 @@
-標題：Success Criterion 1.1.1 Non-text Content
+標題：Success Criterion 1.1.1 Non-text Content｜非官方檢索別名：替代文字 圖片 圖示 裝飾圖 驗證碼 非文字內容
+原文標題：Success Criterion 1.1.1 Non-text Content
+檢索別名：替代文字 圖片 圖示 裝飾圖 驗證碼 非文字內容
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#non-text-content
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

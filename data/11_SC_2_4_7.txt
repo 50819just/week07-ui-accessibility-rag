@@ -1,4 +1,6 @@
-標題：Success Criterion 2.4.7 Focus Visible
+標題：Success Criterion 2.4.7 Focus Visible｜非官方檢索別名：焦點可見 鍵盤焦點 焦點外框
+原文標題：Success Criterion 2.4.7 Focus Visible
+檢索別名：焦點可見 鍵盤焦點 焦點外框
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-visible
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

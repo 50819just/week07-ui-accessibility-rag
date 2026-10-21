@@ -1,4 +1,6 @@
-標題：Success Criterion 1.4.3 Contrast (Minimum)
+標題：Success Criterion 1.4.3 Contrast (Minimum)｜非官方檢索別名：文字對比 最低對比 普通文字 大字 品牌標誌 標誌例外
+原文標題：Success Criterion 1.4.3 Contrast (Minimum)
+檢索別名：文字對比 最低對比 普通文字 大字 品牌標誌 標誌例外
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#contrast-minimum
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

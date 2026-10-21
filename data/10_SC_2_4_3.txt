@@ -1,4 +1,6 @@
-標題：Success Criterion 2.4.3 Focus Order
+標題：Success Criterion 2.4.3 Focus Order｜非官方檢索別名：焦點順序 Tab順序 操作順序
+原文標題：Success Criterion 2.4.3 Focus Order
+檢索別名：焦點順序 Tab順序 操作順序
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-order
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

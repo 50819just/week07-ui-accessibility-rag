@@ -1,4 +1,6 @@
-標題：Success Criterion 3.3.8 Accessible Authentication (Minimum)
+標題：Success Criterion 3.3.8 Accessible Authentication (Minimum)｜非官方檢索別名：無障礙驗證 登入 密碼 認知功能測試
+原文標題：Success Criterion 3.3.8 Accessible Authentication (Minimum)
+檢索別名：無障礙驗證 登入 密碼 認知功能測試
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#accessible-authentication-minimum
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

@@ -1,4 +1,6 @@
-標題：Success Criterion 3.3.2 Labels or Instructions
+標題：Success Criterion 3.3.2 Labels or Instructions｜非官方檢索別名：標籤 提示說明 輸入欄位 表單標籤
+原文標題：Success Criterion 3.3.2 Labels or Instructions
+檢索別名：標籤 提示說明 輸入欄位 表單標籤
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#labels-or-instructions
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

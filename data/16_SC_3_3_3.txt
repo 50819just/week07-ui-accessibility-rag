@@ -1,4 +1,6 @@
-標題：Success Criterion 3.3.3 Error Suggestion
+標題：Success Criterion 3.3.3 Error Suggestion｜非官方檢索別名：錯誤建議 修正建議 表單修正
+原文標題：Success Criterion 3.3.3 Error Suggestion
+檢索別名：錯誤建議 修正建議 表單修正
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#error-suggestion
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

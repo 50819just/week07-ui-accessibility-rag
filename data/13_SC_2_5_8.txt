@@ -1,4 +1,6 @@
-標題：Success Criterion 2.5.8 Target Size (Minimum)
+標題：Success Criterion 2.5.8 Target Size (Minimum)｜非官方檢索別名：觸控目標 點擊目標 按鈕尺寸 最低大小 間距例外
+原文標題：Success Criterion 2.5.8 Target Size (Minimum)
+檢索別名：觸控目標 點擊目標 按鈕尺寸 最低大小 間距例外
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#target-size-minimum
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

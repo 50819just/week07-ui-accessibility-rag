@@ -1,4 +1,6 @@
-標題：WCAG 2.2 Glossary — large scale (text)
+標題：WCAG 2.2 Glossary — large scale (text)｜非官方檢索別名：大字 大型文字 字體大小 粗體 字級 定義
+原文標題：WCAG 2.2 Glossary — large scale (text)
+檢索別名：大字 大型文字 字體大小 粗體 字級 定義
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#dfn-large-scale
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12

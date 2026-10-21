@@ -1,4 +1,6 @@
-標題：Success Criterion 3.3.7 Redundant Entry
+標題：Success Criterion 3.3.7 Redundant Entry｜非官方檢索別名：重複輸入 已填資料 自動填入
+原文標題：Success Criterion 3.3.7 Redundant Entry
+檢索別名：重複輸入 已填資料 自動填入
 來源網址：https://www.w3.org/TR/2024/REC-WCAG22-20241212/#redundant-entry
 教材整理日期：2026-10-21
 原文發布日期：2024-12-12
