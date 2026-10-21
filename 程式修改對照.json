@@ -1,0 +1,346 @@
+[
+  {
+    "notebook": 1,
+    "teacher_cell": 1,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "a03c9d2ba796c7464cd0bf0847464ba8cd6d8c6a37b5e9178c63319c32ad21a9",
+    "new_sha256": "2fcaa805b17c56c92fb1a8dfbf301dd4cb5612b29f91d32516016e6f2d2023fb"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 2,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "2b0fced708e15a03debd849e3fde273165129f262923798f3c63516a5dbd30eb",
+    "new_sha256": "d33f9bc49e8d0959a0aa2f2118a550c7e578aa2ecf7250d6ba83baab6f7d7518"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 3,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "10ad32681d899ebd4a07205ebf10f3101cb41413667013a1f65227e4af61d0f8",
+    "new_sha256": "c8561356eb825189a1c2cdd1b0ebae99547b0df153e9dc1c03275277a2fba6f5"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 4,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "62e1a756bec69853453b58720be90a4dfed4926a000d742d62cc5f59eb14b12b",
+    "new_sha256": "c940d4681240b5b171a582e6eeb4900c16eff2f9541607ed52fac94e77967b6f"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 8,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "dabb15736a6c7ff176e8f6606d87560c2cafba37f6ac979bf3ee47584a4d6f3c",
+    "new_sha256": "9f9cd2e21259a1b7f0f019893b5b7fc9f5269e706ee9a489549a371d46f05439"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 9,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "8f9d7a498cb1bdb6b34f23a84bf9f1a96213cc153b19a9e274eaf3869cfdfb18",
+    "new_sha256": "549366fddd225643ba87a8ab0d0edc477698ded21e9f07068ec11086e616b62d"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 10,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "d2bd610fd1df7a74c8c7733b6f6708c0fb6420f33aa1196cdd4f43597b0d9af1",
+    "new_sha256": "bb9ff235f29b37a3af74bed51b29387b1e2cef3007aff3834ac1e54f4c96986f"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 11,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "3331699904148feb52e94d6e754f1d48d616198ffb39e3d58516dd19c2853d93",
+    "new_sha256": "58459fbd4e3b4e45e10344ab3501d696ba1fa399a49c4e7e05cb72b8acb41bf3"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 15,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "0c253c0cf661d002e75099bd725bdeab941d60b3e3e90b000ec921c0c862bf16",
+    "new_sha256": "331eacc4180192063dc90b77b7e870893957e04803f33d5fafe4748f20efdd53"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 16,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "67a1107edf16da51dd0fbb040bf0b34eabbc4b48c892ff490a62db65a1b4b499",
+    "new_sha256": "cfb8844179991006bffaffb932c29664391ff94141d5f9c889fe048dfac38155"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 19,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "f220ed8836870dccb3524ec6a02e782862c1b03f542e6afbc2435652cd93ca50",
+    "new_sha256": "6a9dd9d047874a98d9733a3d78d4b25fe1b795b9da28a1e44f13aa57e26422f0"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 20,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "95dc1ebce1321f50939bf02899c726deec5983fe0f0538fcd5a491103f5a7a48",
+    "new_sha256": "71f5ec42560a25eda6ddae8838cb1cbce72711401d07d54e0eac2b883d64dc5a"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 29,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "39c8432bed1832d966a288f63d44855fa00873c2ff409c89bab661d2ea5aa484",
+    "new_sha256": "0d9d5a91b86c13e7e463b598ef832e553113b302b78a3a9c73ae2958e76995bc"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 30,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "d0c6fcf1ac6b5c01000b400ae2feda9bed293448504432737f6c8be800f9445d",
+    "new_sha256": "2e303b11570091a157d6e86a817892423b71913776ceb74da1a535deb030cefd"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 35,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "8e6341b937dd5c5478a51e11e9541019dd6048ceea52c8fb81e114fc191d4d92",
+    "new_sha256": "dbdbbca57a673ae99c9fba3f0e6b849dcaf0eabd1b40d840e9f2c63bdb1a6aa6"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 36,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "1b6fac29a1089cd8986e7013518c2700736948a95c1b44480f2d991302b482d6",
+    "new_sha256": "dadf554f016aedd3b4caca4eb146ad20fcef88dc2dfa018b5eacfe9ad833ce89"
+  },
+  {
+    "notebook": 1,
+    "teacher_cell": 37,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "eacd0c135bfe7d5b18f584b4763e8988a6e3ccfb6fb291abc9431d5349e839f5",
+    "new_sha256": "a34053e8ba0834c2a22547748a4d04c9458ddbd7af0c72d357832c8b4c6e31a7"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 1,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "8a6b41dafaff478f94153e95d61fa8cca416df85d34e7e492566fff442113205",
+    "new_sha256": "e5599db20043fea55cb6cfb12b85164e530862845a4d9596fe9ac52aefc31115"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 2,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "fd1e58649667239866dfb2bb59cd22fa85f942026d23917c3cd0e01335d944cf",
+    "new_sha256": "0ae00fc354fc06a89197ab5f7c2ebfab443e98632aff7bcd7e44859e4579a20d"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 3,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "c66df2ea914a93da009bb6731b976f9958decd4039a33f2d3bc514d5a71a1419",
+    "new_sha256": "43d3530752295a3510f82e184b8123880289e6996e575255fe1cfae8a4c3db11"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 4,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "84b1fd00e005790200dea68bed86203e0f667ecf72378790803e1fc652fca9d2",
+    "new_sha256": "717d69b30e28f91df4c6886b50b7fd4b296af643c8e5fcd03fe56ed32b8798ac"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 8,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "9fe264196c06d7159a9077841b02011b9159ea3263bf2cb9b0026aff8beb6167",
+    "new_sha256": "ee45d94981b235d901b970227db16edd8275a129900096c54e400e8d3ef97389"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 9,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "ee3391b55a8d109c9bc72d513217ace5c27d7bf9653949d14f82db16a83a026e",
+    "new_sha256": "04e45aa6a42c2c4e03d4fc60d29f0ff0ee0f788012f4477d7f94c9087b2a2b3a"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 10,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "9e365877dcaec9cb414a2c0cd2a10f8b867c74d46f5c1afaf54142b138de1685",
+    "new_sha256": "cb925da592557f10d4b983488c49fa7fcf131d0df38d439f7ff35f06f7bd1940"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 15,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "515a6493dc5a7a7abcd424f68c88164b1717e6595cb4ee91a40eb791a19ce5dd",
+    "new_sha256": "27fccfc2a01f123ff51cb9dc2be8b6aa80ee000b7822d82bba629806ac2ade86"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 16,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "ed5be5ed6765a3b64fcc79910d269f3f3673fd8b54ce93e66aa5f375ea1bd145",
+    "new_sha256": "8a95c0739283656165f7a792ccef921864cd876e8cab26b45269f9f31118b32d"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 18,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "936c4517d4237333ac86805f756d0b4ee8c073005ec740f7b748c0def455e2d2",
+    "new_sha256": "0970a5e52a46f2f97d725cb7ecfce69504402f5e2ed35c3870802a912d17ac88"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 21,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "36a510e1527ec65643f1fca116bd355c07db14dc9178e4e35918939f1603de47",
+    "new_sha256": "c21a6f4c5c5d86e5d49f2ad484912c03288e65a8050825804afae0884a45321e"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 22,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "31b36075a3c8728275bb2aab2e598fb27b2f25a1496088fa3bbc08e8167d1990",
+    "new_sha256": "a492abc2dac2e1e85e3bd2454208f12b6956755533aa32da438851a4f1d5298e"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 23,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "4e80bc344c92b773c16ef81e6a6de201fea95e08caa80f9c900b3d395607fc83",
+    "new_sha256": "8a3fee4c1ad43f041f0710378b55f02ede94f61a077c6a53c3398a4e6bdfddfd"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 24,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "7dbec092abbca07ca5b594c921e6a0203a69d349797cc082077e70ddf330d513",
+    "new_sha256": "8fe86b4a2141283ade5328f87ae8ace8fbd058178233e9eaf1ff8a61931344af"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 28,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "de9a77ee817af68d58095d87cd8d34815cdb37c704ca8d803c6e4535c79bef91",
+    "new_sha256": "425f600129738d3259a113a16e0764723bc43ea33b4953f3047e2038d01ebe99"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 31,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "4f0e0b8565e2671fcd287f6e1c2b00970f8655403fa8d2b25b3e5f8d4142ece1",
+    "new_sha256": "920312e6a91c741b592e998325558d008be44cf0f0f9e1b7f528c93ba5ca15ed"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 32,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "d948fbe74266f8dccc1a420812de67bd6fff326ca6ef2353b04a3d1056292026",
+    "new_sha256": "5fb8de768bdd0184602166e70047bf9a767daade05759fe9bae7e19dac6ed705"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 33,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "542995ad5b1a3378fc4ac086cf095a379d3ea13df735a1a76299c80b7867121b",
+    "new_sha256": "9b424fc08706d669bf63c99d88889e00ac8010b5b9539a4b569f4e01230ce275"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 34,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "b620c10373e508ae00194fb33571e220635946dad6ba0ea1f593bb10f0365f46",
+    "new_sha256": "a075375a16a66f0bc1fd5fc1d94c00c849c88e3150bd10f6839d49712de6be74"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 35,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "08d5c098d40594db0df66575956ff4623a2a19d5d5efd8bdbda906d9c979a4f7",
+    "new_sha256": "1e3184970ec6dda9e471f29117b4dbf63e49b8272476d0347d2b22aa1f476522"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 36,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "e743ad3a4aeefcb6e2ded5bb9b93d4bad6c975a31e365b9d2e746ead537a03ef",
+    "new_sha256": "d8f9fc6980a7995639ca6cfc356465c671a46296326c2e0b7c5c15eb4960ddf8"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 37,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "c6a31f72bfcec9105f8194ca595b66489018e7b302ad2ab5073d42a7da098b11",
+    "new_sha256": "d26d1bcba8287e1a3ffc177564b024e4e718d7609a2dc8984ecce92a14394866"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 38,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "a29bf4fe1acdd91144dcdc2ec348f896e22ddde9014ad0993e2bb01287c1b40f",
+    "new_sha256": "8addd5af0dd684700884c8de789245e2d67c88fb876c6d3c469173bb40e57760"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 39,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "51235758ea9c56ec59c860aa0dc9c161cb9b82cfcdea2581d5f6993ff31e791a",
+    "new_sha256": "df74dc703cf20b1ce78db0b2dd0302f6f7c58ef209565a39e447278ef2089cb1"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 40,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "64b8725614b8b18a3add573150ac6ec955015e01540ee143087c52e065de22b5",
+    "new_sha256": "b079cec148baa8ccc86dc1c1fb3cf41935192c6fb9a484d6605583b6821127a2"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 41,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "297357aab606207ccf7f2c25fe576a5fbccae4e490bd5716e18cdfaca74c7c24",
+    "new_sha256": "4f25947a18495ce48b95a266cad7d32f72c36b60466b61d139dd9f9b329672ff"
+  }
+]
