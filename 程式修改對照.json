@@ -141,7 +141,7 @@
     "type": "markdown",
     "origin": "AI協助改寫",
     "teacher_sha256": "8a6b41dafaff478f94153e95d61fa8cca416df85d34e7e492566fff442113205",
-    "new_sha256": "e5599db20043fea55cb6cfb12b85164e530862845a4d9596fe9ac52aefc31115"
+    "new_sha256": "c46ade79df553268c46f7424f8e307ef8d2caee4459db9d35b1ad75da8b6f24b"
   },
   {
     "notebook": 2,
@@ -173,7 +173,7 @@
     "type": "code",
     "origin": "AI協助改寫",
     "teacher_sha256": "9fe264196c06d7159a9077841b02011b9159ea3263bf2cb9b0026aff8beb6167",
-    "new_sha256": "ee45d94981b235d901b970227db16edd8275a129900096c54e400e8d3ef97389"
+    "new_sha256": "f07a801758af31225afd50cdda45cda6978697b0089164e543c7e796a092e67b"
   },
   {
     "notebook": 2,
@@ -229,7 +229,7 @@
     "type": "code",
     "origin": "AI協助改寫",
     "teacher_sha256": "31b36075a3c8728275bb2aab2e598fb27b2f25a1496088fa3bbc08e8167d1990",
-    "new_sha256": "a492abc2dac2e1e85e3bd2454208f12b6956755533aa32da438851a4f1d5298e"
+    "new_sha256": "e2004ed1457319e9accd54c612c311917067a426e2e5047f6adc92e358a938d3"
   },
   {
     "notebook": 2,
@@ -245,7 +245,23 @@
     "type": "code",
     "origin": "AI協助改寫",
     "teacher_sha256": "7dbec092abbca07ca5b594c921e6a0203a69d349797cc082077e70ddf330d513",
-    "new_sha256": "8fe86b4a2141283ade5328f87ae8ace8fbd058178233e9eaf1ff8a61931344af"
+    "new_sha256": "4a6c1e57e89f17ffc8804cec60b0578d429deb89d4ee7e473dc021ec48d7a27c"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 25,
+    "type": "markdown",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "0fbeb04af17db7c482fe833816928386e62bf88631c0ab76cc80c1d97db442e6",
+    "new_sha256": "6019a8ba559f0b5cb130745868f978795797d6473c286da454520a840db674b6"
+  },
+  {
+    "notebook": 2,
+    "teacher_cell": 26,
+    "type": "code",
+    "origin": "AI協助改寫",
+    "teacher_sha256": "9a472ba361be36fce9d28e9d5c6f7f8b76559ad5a18b8ab0168497669da95ee2",
+    "new_sha256": "073821d4c772d037634fd2a7f45f397bb47dc04a1b2e0efc4cb76bf64dfb520e"
   },
   {
     "notebook": 2,
@@ -261,7 +277,7 @@
     "type": "markdown",
     "origin": "AI協助改寫",
     "teacher_sha256": "4f0e0b8565e2671fcd287f6e1c2b00970f8655403fa8d2b25b3e5f8d4142ece1",
-    "new_sha256": "920312e6a91c741b592e998325558d008be44cf0f0f9e1b7f528c93ba5ca15ed"
+    "new_sha256": "c0027043378bb7eefc464ca33ada330379a9725f22fb90883be60a63a6ddf43f"
   },
   {
     "notebook": 2,
@@ -285,7 +301,7 @@
     "type": "code",
     "origin": "AI協助改寫",
     "teacher_sha256": "b620c10373e508ae00194fb33571e220635946dad6ba0ea1f593bb10f0365f46",
-    "new_sha256": "a075375a16a66f0bc1fd5fc1d94c00c849c88e3150bd10f6839d49712de6be74"
+    "new_sha256": "c9cfc15e95ef17f9610d56a251ec72e8954a67322888ff4e7b3c3a5c9dd363aa"
   },
   {
     "notebook": 2,
